@@ -1,0 +1,434 @@
+{
+  "sf": {
+      "order": [
+       {
+         "column_name": "AccountId",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "ACH_Disposition__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "ACH_Duration__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "ACH_End_Time__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "ACH_Issues_Identified__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "ACH_Issues_to_Cure__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "ACH_Outcome__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "ACH_Pending_Time__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "ActivatedById",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "ActivatedDate",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Agent_Feedback__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Auto_Pay_Activated__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Billing_Status__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "BillingAddress",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "BillingGeocodeAccuracy",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "BillToContactId",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Bus_Validation_Issues_Identified__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Bus_Validation_Issues_to_Cure__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Bus_Validation_Outcome__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Business_Validation_Disposition__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Business_Validation_Duration__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Business_Validation_End_Time__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Business_Validation_Pending_Time__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Cancel_Reason__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "CompanyAuthorizedById",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "CompanyAuthorizedDate",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "ContractId",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "CreatedById",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "CreatedDate",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Credit_Disposition__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Credit_Duration__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Credit_End_Time__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Credit_Issues_Identified__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Credit_Issues_to_Cure__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Credit_Outcome__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Credit_Pending_Time__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "CTN_Call_Recording_Activated__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Customer_ID__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "CustomerAuthorizedById",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "CustomerAuthorizedDate",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Description",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "EffectiveDate",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "EndDate",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Escalation_Reasons__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Escalation_To__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Fulfillment_Contact__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Fulfillment_Duration__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Fulfillment_End__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Fulfillment_Stage__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Fulfillment_Start__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Fulfillment_Status_Update_Override__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Id",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "IsDeleted",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "IsReductionOrder",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "LastModifiedById",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "LastModifiedDate",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "LastReferencedDate",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "LastViewedDate",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "MTP_Disposition__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "MTP_Duration__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "MTP_End_Time__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "MTP_Issues_Identified__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "MTP_Issues_to_Cure__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "MTP_Outcome__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "MTP_Pending_Time__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Name",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Office__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Onboarding_Cancel_Reason__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Onboarding_Duration__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Onboarding_End__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Onboarding_Fix__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Onboarding_Hold_Reason__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Onboarding_Outcome__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Onboarding_Pilot__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Onboarding_Stage__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Onboarding_Start__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Onboarding_Updates__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "OpportunityId",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Order_Close_Date__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Order_Duration__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Order_Validation_Duration__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Order_Validation_End__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Order_Validation_Stage__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Order_Validation_Start__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "OrderNumber",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "OrderReferenceNumber",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "OriginalOrderId",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "OwnerId",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "PoDate",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "PoNumber",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Pricebook2Id",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Publish_Type__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Query_Exception__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Query_Exception_Expires_On__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "RecordTypeId",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Registered_for_Customer_Portal__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "ShippingAddress",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "ShippingGeocodeAccuracy",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "ShipToContactId",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Stage__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Stage_Aging__c",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Status",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "StatusCode",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "SystemModstamp",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "TotalAmount",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "Type",
+         "data_type": "varchar(2000)"
+       },
+       {
+         "column_name": "bucket_date",
+         "data_type": "varchar(2000)"
+       }
+    ]
+  }
+}
